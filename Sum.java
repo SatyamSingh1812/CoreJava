@@ -4,6 +4,7 @@ public class Sum {
         int b = 8;
         int c = 9;
         int sum = a+b+c;
-        System.out.println(sum);
+        int mul = a*b;
+        System.out.println(sum*2+3+" "+ mul);
     }
 }
